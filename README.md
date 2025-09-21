@@ -18,6 +18,10 @@ A **real-time stock trading simulation platform** that allows users to buy/sell 
 ## System Design
 **Architecture Overview:**
 
+## System Design
+**Architecture Overview:**
+
+```mermaid
 graph TD
 A[User] --> B[Spring Boot REST API]
 B --> C[(Portfolio DB)]
