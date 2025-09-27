@@ -28,3 +28,14 @@ B --> C[(Portfolio DB)]
 B --> D[Transaction DB]
 E[Scheduler] --> F[Stock Price Generator]
 F --> D
+
+
+
+## Project Status
+🚧 This project is currently in active development.  
+Basic structure and initial setup have been completed, and core modules (trading logic, database schema, and portfolio management) are being implemented.  
+Upcoming updates will include:  
+- User authentication & role management  
+- Real-time stock price simulation  
+- Portfolio analytics dashboard  
+
